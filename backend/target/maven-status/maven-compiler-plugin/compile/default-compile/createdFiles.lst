@@ -1,0 +1,4 @@
+model\Task.class
+repository\MySqlConnection.class
+repository\TaskRepository.class
+service\TaskListApi.class
